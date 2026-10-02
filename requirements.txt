@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn[standard]
+google-genai
+python-docx
+reportlab
+pydantic
+python-dotenv
